@@ -2,6 +2,7 @@
 
 Meu nome é Lucas cerejo
 
+- Estou aprendendo novas coisas no python
 - Estou estudando  no [Alura](https://www.alura.com.br)
 -  Estou me desenvolvendo na Linguagem JavaScript
 -  Utilizo  esse espaço  para minha organização  dos meus projetos  desevolvidos
